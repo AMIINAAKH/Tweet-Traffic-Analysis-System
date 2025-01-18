@@ -1,5 +1,6 @@
 ***Tweet Traffic Analysis System***
 **Description**
+
 This project leverages Twitter data for real-time road traffic event detection using advanced natural language processing (NLP) and machine learning techniques. The system analyzes tweets to classify them into traffic-related or non-traffic-related categories, providing valuable insights for intelligent transportation systems (ITS).
 
 **Key Features**
